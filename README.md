@@ -8,3 +8,7 @@ Currently indentaCode indents:
 
 ## More docs soon!
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/froi/indentacode/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
